@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://vithahchoh.getmulticolour.com/sitemap.xml
